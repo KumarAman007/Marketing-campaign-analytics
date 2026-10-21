@@ -1,0 +1,4 @@
+campaign_id,campaign_name,sent,delivered,opens,clicks,conversions
+C001,Welcome Email,1000,980,490,120,30
+C002,Summer Sale,2000,1940,582,194,58
+C003,Cart Reminder,1200,1188,713,238,72

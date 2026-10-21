@@ -1,0 +1,17 @@
+session_id,traffic_source,device,pages_viewed,purchase,revenue
+S001,Organic Search,Desktop,3,1,3000
+S002,Organic Search,Mobile,2,0,0
+S003,Organic Search,Desktop,4,1,2500
+S004,Organic Search,Tablet,3,0,0
+S005,Paid Ads,Mobile,5,1,2200
+S006,Paid Ads,Desktop,4,1,2800
+S007,Paid Ads,Mobile,3,0,0
+S008,Paid Ads,Tablet,2,0,0
+S009,Email,Mobile,6,1,1800
+S010,Email,Desktop,5,1,3200
+S011,Email,Mobile,2,0,0
+S012,Social Media,Mobile,2,0,0
+S013,Social Media,Tablet,3,0,0
+S014,Social Media,Mobile,4,1,2500
+S015,Social Media,Desktop,2,0,0
+S016,Organic Search,Mobile,3,0,0

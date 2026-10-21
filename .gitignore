@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+
+# Local databases and temporary exports
+*.db
+*.sqlite
+*.sqlite3
+*.bak
+*.tmp
+
+# Power BI local/temporary files
+*.pbi-tools*
+*.pbit
+~$*.pbix
+*.pbix.autosave
+
+# Editors and operating systems
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Logs and generated reports
+*.log
+reports/generated/

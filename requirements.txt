@@ -1,0 +1,2 @@
+# The optional generator uses only Python's standard library.
+# No third-party packages are required to reproduce the sample data.
